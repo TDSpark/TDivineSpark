@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TDivine Spark (Pvt.) Ltd.</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #fff8ec;
+      color: #2e3d2f;
+      text-align: center;
+    }
+
+    header {
+      padding: 20px;
+    }
+
+    img.logo {
+      max-width: 300px;
+      height: auto;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-top: 0.5em;
+      color: #2e3d2f;
+    }
+
+    p {
+      font-size: 1.2em;
+      margin: 1em auto;
+      max-width: 600px;
+    }
+
+    footer {
+      margin-top: 2em;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="TDivine Spark Logo" class="logo" />
+    <h1>TDivine Spark (Pvt.) Ltd.</h1>
+    <p>Explore the world with us! We’re a tourism-based company helping you discover destinations with unforgettable experiences.</p>
+    <p><strong>Contact us:</strong> Thevarasa Diro | Email: info@tdivinespark.com</p>
+  </header>
+
+  <footer>
+    &copy; 2025 TDivine Spark. All rights reserved.
+  </footer>
+</body>
+</html>
